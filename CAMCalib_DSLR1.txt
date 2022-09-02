@@ -1,0 +1,31 @@
+                           Australis Bundle Adjustment Results: Camera Parameters
+
+                                        27 May, 2021   16:52:43
+
+Project:  C:\Australis\Project 1.aus
+
+Adjustment: Free-Network
+Number of Points: 1000
+Number of Images: 10
+RMS of Image coords:    1.00 (um)
+
+Results for Camera 1    Canon_EOS_2000D,_EF-S18-55mm_f/3.5-5.6_IS_II_(18mm)      Lens 
+
+Sensor Size        Pixel Size (mm)
+  H    6000           0.00377296
+  V    4000           0.00377296
+
+  Camera    Initial      Total          Final        Initial         Final
+ Variable    Value     Adjustment       Value       Std. Error     Std. Error
+    C       18.7997      0.00000       18.7997       1.0e+003         0.0148 (mm)
+   XP        0.0742      0.00000        0.0742       1.0e+003         0.0176 (mm)
+   YP        0.3130      0.00000        0.3130       1.0e+003         0.0176 (mm)
+   K1   5.12133e-04   0.000e-000   5.12133e-04       1.0e+003    3.51897e-06
+   K2  -9.49644e-07   0.000e-000  -9.49644e-07       1.0e+003    5.18837e-08
+   K3  -1.87754e-09   0.000e-000  -1.87754e-09       1.0e+003    2.26921e-10
+   P1  -2.62943e-04   0.000e-000  -2.62943e-04       1.0e+003    6.79778e-06
+   P2   1.58535e-04   0.000e-000   1.58535e-04       1.0e+003    1.32183e-05
+   B1   4.56805e-03   0.000e-000   4.56805e-03       1.0e+003    7.15228e-04
+   B2  -9.95321e-03   0.000e-000  -9.95321e-03       1.0e+003    5.10647e-04
+
+Maximum Observational Radial Distance Encountered:      13.604 mm
