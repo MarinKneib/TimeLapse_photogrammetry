@@ -1,4 +1,4 @@
-These are the scripts used for the automated SfM stereo-processing of time-lapse camera images using Agisoft Metashape, along with example datasets.
+These are the scripts used for the automated SfM processing of time-lapse camera images using Agisoft Metashape, along with example datasets.
 
 The scripts are used as follows:
 
